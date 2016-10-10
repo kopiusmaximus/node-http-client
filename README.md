@@ -46,7 +46,7 @@ Let's examine and run the request script, `lib/http-client-request.js`.
 Examine the code in [lib/http-client-request.js](lib/http-client-request.js).
 How is it similar to `curl` and AJAX? How does it differ?  Make a list.
 
-Annotate the code in [lib/http-client-equest-promises.js](lib/http-client-request-promises.js).
+Annotate the code in [lib/http-client-request-promises.js](lib/http-client-request-promises.js).
 
 ## Annotate Along: Sign up then in
 
